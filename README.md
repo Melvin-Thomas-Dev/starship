@@ -271,3 +271,7 @@ Please check out these previous works that helped inspire the creation of starsh
 
 Copyright © 2019-present, [Starship Contributors](https://github.com/starship/starship/graphs/contributors).<br>
 This project is [ISC](https://github.com/starship/starship/blob/master/LICENSE) licensed.
+
+
+
+Melvin was here
